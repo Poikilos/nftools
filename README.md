@@ -1,2 +1,2 @@
 # nftools
-Last known version of Sam Hocevar nftools, but with images removed
+Last known version of Niften's nftools, but with images removed
